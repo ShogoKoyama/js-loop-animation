@@ -1,0 +1,21 @@
+body {
+    background-color: #333332;
+    font-size: 50px;
+    color: white;
+}
+
+#test, h1{
+}
+
+#t1 {
+    font-family: "sans-serif";
+}
+#t2 {
+    font-family: "arial black";
+}
+#t3 {
+    font-family: "arial narrow";
+}
+#t4 {
+    font-family: "Courier New";
+}
